@@ -66,3 +66,5 @@ Du er en ekspertutvikler med ferdigheter i **Next.js, TypeScript, React, ShadCN,
 - Bruk **Railway for testing**, og en betalt hosting-løsning ved lansering.
 - Bruk **Vercel** eller **Netlify** for enkel hosting av Next.js.
 - Automatiser deploy med **GitHub Actions**.
+
+Merk: ShadCN kan ikke lenger installeres ved å bruke shadcn-ui. Bruk npm install shadcn for korrekt installasjon.
